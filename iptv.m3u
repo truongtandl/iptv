@@ -7,6 +7,25 @@
 #EXTM3U url-tvg="https://i.mjh.nz/au/Melbourne/epg.xml.gz" tvg-shift=0 m3uautoload=12
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml" tvg-shift=0 m3uautoload=13
 
+#EXTINF:-1 tvg-id="klive1" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/qL6Y117/live1.jpg",K+LIVE 1
+#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod" #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.ifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluslivekey1 https://cocc.me/kpluslive1hd?id=kplus01/seasonid=21/i.mpd
+#EXTINF:-1 tvg-id="klive2" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/8B4ddt2/live2.jpg",K+LIVE 2
+#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod" #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeylive2 https://cocc.me/kpluslive2hd?id=kplus02/seasonid=32/i.mpd
+#EXTINF:-1 tvg-id="klive3" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/f4dMm5S/live3.jpg",K+LIVE 3
+#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod" #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://cocc.me/livekpluskey3 https://cocc.me/kpluslive3hd?id=kplus03/seasonid=46/i.mpd"
+ https://khanggne.github.io/Iptvkhangg/#:~:text=id%3Dkids10/seasonid,46/i.mpd
+#--*.*--K+--*.*--#
+#EXTINF:-1 tvg-id="kcinehd" group-title="THỂ THAO" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg",K+ CINE HD
+
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg" group-title="THỂ THAO", K+LIFE HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeylifehd?key=28/199022112/80keokey https://hqth.me/kpluslifehd?id=20/seasonid:4763/live992/life.mpd
+#EXTINF:-1 tvg-id="ksport1hd" group-title="THỂ THAO" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg",K+ SPORT1 HD
+#KODIPROP:inputstream.adaptive.ifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeysports1hd?key99/738829912/20sportskeokey https://hqth.me/kplussports1hd?id=klifesports291/seasonid:83112232211/sports.mpd
+#EXTINF:-1 tvg-id="ksport2hd" group-title="THỂ THAO" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg",K+SPORT 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeysports2hd?key=66/728819923/32sportskeokey https://hqth.me/kplussports2hd?id=klifesports821/seasonid:1777288822/sports.mpd
+  ﻿   ﻿#EXTM3U
+﻿#EXTM3U
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 http://171.238.181.52:18080/154.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
