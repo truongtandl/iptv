@@ -101,15 +101,15 @@ https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="💛| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
 https://htvc271120.cdn.vnns.io/adfdd9118148996515935b0152e08d211716035353/htv1.720p.nimble.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="💛| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
-https://vc.101vn.com/htv/htvcmb.php?id=2669
+https://htvc271120.cdn.vnns.io/9c3ce38571bed472d4ab8b81c6a100371716035492/htv2.cat.720p.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="💛| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
-https://vc.101vn.com/htv/htvcmb.php?id=2535
+https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTU0MzEwNzMsInVyaSI6IlwvaHR2Y1wvaHR2My43MjBwLm5pbWJsZS50bXMiLCJpcCI6IiJ9.-s0E-jPdgbf411jkrdnfPcdmOuUAkXVw5YyMCzM4anA-/htvc/htv3.720p.nimble.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="💛| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
-https://vc.101vn.com/htv/htvcmb.php?id=2528
+https://htvc271120.cdn.vnns.io/ee1f067a630a1a2621071018e72360401716035531/htv4.480p.nimble.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
-https://vc.101vn.com/htv/htvcmb.php?id=256
+https://htvc271120.cdn.vnns.io/3d58d1f4b32a76544cfd307a995ca9441716035540/htv7.cat.720p.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
-https://vc.101vn.com/htv/htvcmb.php?id=2667
+https://htvc271120.cdn.vnns.io/9edd91d5581d17801c179d5bbc2a45e71716035552/htv9.cat.720p.tms/playlist.m3u8
 #EXTINF:0 tvg-id="htvthethaohd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao
 http://171.238.180.25:18080/304.m3u8
 
