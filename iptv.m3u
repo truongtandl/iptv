@@ -11,7 +11,7 @@
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1920px-VTV1_logo_2013_final.svg.png",VTV1
 https://vtvgolive-vtv.vtvdigital.vn/OCMv1ELbwQWTn-RuyL415w/1720189800/vtvgo/vtv1-720p.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1920px-VTV2_logo_2013_final.svg.png",VTV2
-http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
+https://vtvgolive-vtv.vtvdigital.vn/Y9_3mOwS2GdLGWq5K6_kNA/1720189917/vtvgo/vtv2-720p.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1920px-VTV3_logo_2013_final.svg.png",VTV3
 http://171.238.181.52:18080/155_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1920px-VTV4_logo_2013_final.svg.png",VTV4
