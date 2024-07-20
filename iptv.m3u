@@ -13,7 +13,7 @@ http://p2.cvtv.xyz/vtv1?token=live
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1920px-VTV2_logo_2013_final.svg.png",VTV2
 http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.13:30120
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1920px-VTV3_logo_2013_final.svg.png",VTV3
-http://p2.cvtv.xyz:8001/v3?token=live
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.247:30120
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1920px-VTV4_logo_2013_final.svg.png",VTV4
 http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/62.ts
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1920px-VTV5_logo_2013_final.svg.png",VTV5
